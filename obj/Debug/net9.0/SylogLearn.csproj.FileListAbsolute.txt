@@ -1,0 +1,14 @@
+C:\Users\eriko\Desktop\SylogLearn\bin\Debug\net9.0\SylogLearn.exe
+C:\Users\eriko\Desktop\SylogLearn\bin\Debug\net9.0\SylogLearn.deps.json
+C:\Users\eriko\Desktop\SylogLearn\bin\Debug\net9.0\SylogLearn.runtimeconfig.json
+C:\Users\eriko\Desktop\SylogLearn\bin\Debug\net9.0\SylogLearn.dll
+C:\Users\eriko\Desktop\SylogLearn\bin\Debug\net9.0\SylogLearn.pdb
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.AssemblyInfoInputs.cache
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.AssemblyInfo.cs
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.csproj.CoreCompileInputs.cache
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.dll
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\refint\SylogLearn.dll
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.pdb
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\SylogLearn.genruntimeconfig.cache
+C:\Users\eriko\Desktop\SylogLearn\obj\Debug\net9.0\ref\SylogLearn.dll
